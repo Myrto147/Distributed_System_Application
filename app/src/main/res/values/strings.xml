@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music World</string>
+    <string name="No_such_song">The Song doesn\'t exist!</string>
+</resources>
