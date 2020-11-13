@@ -1,6 +1,6 @@
 ## ΟΔΗΓΙΕΣ intellij
 
-* Ορίζουμε το N στο Node.java.
+* Ορίζουμε το N στο Node.java (Να είναι το ίδιο με αυτό που θα βάλουμε στο Android Studio)
 * Τρέχουμε το Back End.
 
 ## ΟΔΗΓΙΕΣ Android Studio
