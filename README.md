@@ -12,8 +12,8 @@
 
 ## ΜΕΛΗ
 
-* **Μιχαλακάκου Κωνσταντίνα** - *3150111* - [K Mih](https://github.com/Kapamih)
-* **Λάγιου Κωνσταντίνα Έλενα** - *3150087* - [Εlena Lagiou](https://github.com/hellag)
-* **Παπαδήμα Μυρτώ** - *3150135* - [MyrtPap](https://github.com/Myrto147)
+* **Μιχαλακάκου Κωνσταντίνα** - [K Mih](https://github.com/Kapamih)
+* **Λάγιου Κωνσταντίνα Έλενα** - [Εlena Lagiou](https://github.com/hellag)
+* **Παπαδήμα Μυρτώ** - [MyrtPap](https://github.com/Myrto147)
 
 Ομαδική εργασία στα πλαίσια του μαθήματος "Κατανεμημένα Συστήματα 2020".
